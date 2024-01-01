@@ -1,4 +1,4 @@
-<img alt="WITHERED GROUP" src="https://withered.group/logo-group.png" height="50" />
+![Withered Group logo](./logo.png)
 <p>Withered Group is a software and games development business based in the UK, with remote volunteers in Denmark and Sweden.</p>
 <p>Our projects include:</p>
 <ul>
